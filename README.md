@@ -21,7 +21,7 @@ After about 30 seconds, a browser window will open and begin to display your sta
 In case these instructions don't work for you, DM me. Or, enjoy some screenshots from the page
 
 ![map](screenshots/map.png)
-
+<img src="screenshots/map.png">
 ![graph](screenshots/graph.png)
 
 ![contacts](screenshots/contacts.png)
