@@ -19,3 +19,9 @@ After about 30 seconds, a browser window will open and begin to display your sta
 <button> [Download Here!](https://github.com/michael-danello/iMessageWrapped/raw/master/dist/start_app.app/Contents/MacOS/start_app) </button>
 
 In case these instructions don't work for you, DM me. Or, enjoy some screenshots from the page
+
+![map](screenshots/map.png)
+
+![graph](screenshots/graph.png)
+
+![contacts](screenshots/contacts.png)
