@@ -1,8 +1,8 @@
 
 
-### Background
+# iMessage Wrapped: Your 2020 as told by texts
 
-Texting produces a lot of rich data: iMessageWrapped visualized and analyzes that data
+#### Download link ↓↓
 
 ### Getting Started 
 To run iMessageWrapped, you will need:
@@ -19,9 +19,9 @@ After downloading the app, navigate to Security and Privacy and give iMessageWra
 
 Once you've done this, you can open the iMessageWrapped.exe file. If you get an `unidentified developer` error, try opening the app within finder by right clicking, and selecting `Open.` At this point, you may be prompted for access to your contacts, which you will also need to allow. 
 
-After about 30 seconds, a browser window will open and begin to display your statistics for the year. 
+A terminal will open, and after about 30 seconds, a browser window will open and begin to display your statistics for the year. 
 
-<a href="https://github.com/michael-danello/iMessageWrappedRelease/archive/v1.0.zip"> <h2> Download Here! </h2> </a>
+<a href="https://github.com/michael-danello/iMessageWrappedRelease/archive/v1.0.zip" style="font-size:25px"> Download Here! </a>
 
 In case these instructions don't work for you, DM me. Or, enjoy some screenshots from the page
 
