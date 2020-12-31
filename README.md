@@ -15,7 +15,7 @@ To run iMessageWrapped, you will need:
 
 iMessageWrapped does NOT store or even process your data remotely. All the work is done through your own local computer. 
 
-After downloading the app, navigate to Security and Privacy and give iMessageWrapped Full Disk Accsess permission (if it does not appear in the list, click the + button and search for it manually). This will allow the app to analyze and compile your messages. In the same screen give the Terminal (or default shell) program the same permissions
+After downloading the app, navigate to Security and Privacy and give iMessageWrapped Full Disk Access permission (if it does not appear in the list, click the + button and search for it manually). This will allow the app to analyze and compile your messages. In the same screen give the Terminal (or default shell) program the same permissions
 
 <img src="screenshots/security.png" width="400">
 
