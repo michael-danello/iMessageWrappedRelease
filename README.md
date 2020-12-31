@@ -2,9 +2,10 @@
 
 # iMessage Wrapped: Your 2020 as told by texts
 
-#### Download link ↓↓
+
 
 ### Getting Started 
+#### Download link ↓↓
 To run iMessageWrapped, you will need:
 
 <ol>
