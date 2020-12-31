@@ -2,7 +2,7 @@
 
 ### Background
 
-Got 
+Texting produces a lot of rich data: iMessageWrapped visualized and analyzes that data
 
 ### Getting Started 
 To run iMessageWrapped, you will need:
@@ -21,7 +21,7 @@ Once you've done this, you can open the iMessageWrapped.exe file. If you get an 
 
 After about 30 seconds, a browser window will open and begin to display your statistics for the year. 
 
-<button> <h2> [Download Here!](https://github.com/michael-danello/iMessageWrappedRelease/archive/v1.0.zip) </h2> </button>
+<a href="https://github.com/michael-danello/iMessageWrappedRelease/archive/v1.0.zip"> <h2> Download Here! </h2> </a>
 
 In case these instructions don't work for you, DM me. Or, enjoy some screenshots from the page
 
