@@ -15,8 +15,9 @@ To run iMessageWrapped, you will need:
 
 iMessageWrapped does NOT store or even process your data remotely. All the work is done through your own local computer. 
 
-After downloading the app, navigate to Security and Privacy and give iMessageWrapped Full Disk Accsess permission (if it does not appear in the list, click the + button and search for it manually). This will allow the app to analyze and compile your messages. You will also need to give your terminal (or default shell) accsess.
-<img src="https://support.intego.com/hc/article_attachments/360015744251/Security_and_Privacy.png" width="400">
+After downloading the app, navigate to Security and Privacy and give iMessageWrapped Full Disk Accsess permission (if it does not appear in the list, click the + button and search for it manually). This will allow the app to analyze and compile your messages. In the same screen give the Terminal (or default shell) program the same permissions
+
+<img src="screenshots/security.png" width="400">
 
 Once you've done this, you can open the iMessageWrapped.exe file. If you get an `unidentified developer` error, try opening the app within finder by right clicking, and selecting `Open.` At this point, you may be prompted for access to your contacts, which you will also need to allow. 
 
