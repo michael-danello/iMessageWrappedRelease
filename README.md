@@ -22,7 +22,7 @@ Once you've done this, you can open the iMessageWrapped.exe file. If you get an 
 
 A terminal will open, and after about 30 seconds, a browser window will open and begin to display your statistics for the year. 
 
-<a href="https://github.com/michael-danello/iMessageWrappedRelease/archive/v1.0.zip" style="font-size:25px"> Download Here! </a>
+<a href="https://github.com/michael-danello/iMessageWrappedRelease/archive/v.1.01.zip" style="font-size:25px"> Download Here! </a>
 
 In case these instructions don't work for you, DM me. Or, enjoy some screenshots from the page
 
