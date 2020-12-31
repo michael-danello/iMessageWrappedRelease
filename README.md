@@ -1,5 +1,10 @@
-## iMessage 2020 Wrapped
 
+
+### Background
+
+Got 
+
+### Getting Started 
 To run iMessageWrapped, you will need:
 
 <ol>
@@ -16,12 +21,16 @@ Once you've done this, you can open the iMessageWrapped.exe file. If you get an 
 
 After about 30 seconds, a browser window will open and begin to display your statistics for the year. 
 
-<button> [Download Here!](https://github.com/michael-danello/iMessageWrapped/raw/master/dist/start_app.app/Contents/MacOS/start_app) </button>
+<button> <h2> [Download Here!](https://github.com/michael-danello/iMessageWrappedRelease/archive/v1.0.zip) </h2> </button>
 
 In case these instructions don't work for you, DM me. Or, enjoy some screenshots from the page
 
 ![map](screenshots/map.png)
-<img src="screenshots/map.png">
+
 ![graph](screenshots/graph.png)
 
 ![contacts](screenshots/contacts.png)
+
+### The Tech 
+
+iMessageWrapped is build with Flask, Jinja, chart.js and leaflet. iMessages and Contacts live in a SQLite DB which the app queries directly. For parts of speech, the text is tokenized and tagged using nltk's averaged_perceptron_tagger. You can find the link to the full repo [here](https://github.com/michael-danello/iMessageWrapped)
