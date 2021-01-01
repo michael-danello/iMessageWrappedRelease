@@ -19,7 +19,7 @@ After downloading the app, navigate to Security and Privacy and give iMessageWra
 
 <img src="screenshots/security.png" width="400">
 
-Once you've done this, you can open the iMessageWrapped.exe file. If you get an `unidentified developer` error, try opening the app within finder by right clicking, and selecting `Open.` At this point, you may be prompted for access to your contacts, which you will also need to allow. 
+Once you've done this, you can open the iMessageWrapped.app file. If you get an `unidentified developer` error, try opening the app within finder by right clicking, and selecting `Open.` At this point, you may be prompted for access to your contacts, which you will also need to allow. 
 
 A terminal will open, and after about 30 seconds, a browser window will open and begin to display your statistics for the year. 
 
